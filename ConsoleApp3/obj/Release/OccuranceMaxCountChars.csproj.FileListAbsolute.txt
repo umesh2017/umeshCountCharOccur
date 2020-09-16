@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\OccuranceMaxCountChars.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\OccuranceMaxCount.exe.config
+C:\Users\Dell\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\OccuranceMaxCount.exe
+C:\Users\Dell\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\OccuranceMaxCount.pdb
+C:\Users\Dell\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\OccuranceMaxCount.exe
+C:\Users\Dell\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\OccuranceMaxCount.pdb
+C:\Users\Dell\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\OccuranceMaxCountChars.csprojAssemblyReference.cache
